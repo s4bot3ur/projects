@@ -1,0 +1,8 @@
+token URI=token universal resource identifier
+
+https://ipfs.io/ipfs/fileid
+
+
+1.filecoin
+2.arweave.org
+3.nft.storage helps to deploy nft emtadata to filecoin
